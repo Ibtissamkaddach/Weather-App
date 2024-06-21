@@ -40,6 +40,24 @@ git commit -m "Initial commit - Add weather app"
 # Add the remote repository
 git remote add origin https://github.com/Ibtissamkaddach/Weather-App.git
 
+## Contributing
+
+Your contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes and commit them (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a new Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me.
+
 # Push the changes to the remote repository
 git push -u origin main
 
