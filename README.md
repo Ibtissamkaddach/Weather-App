@@ -21,7 +21,7 @@ This is a simple weather app that fetches and displays a real-time weather infor
    ```sh
    git clone https://github.com/Ibtissamkaddach/Weather-App.git
 
-2. This code can work without needing an actual the Weather API-key is obtained, it uses Open-Meteo for a real time weather information.
+2. This code can work without needing an actual Weather API-key, it uses Open-Meteo for a real time weather information.
 
 3. Open your terminal, navigate to the project directory, and run the following commands to initialize a Git repository, commit the code, and push it to GitHub:
 
