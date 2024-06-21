@@ -37,7 +37,7 @@ git add .
 # Commit the changes
 git commit -m "Initial commit - Add weather app"
 
-# Add the remote repository (replace with your repository URL)
+# Add the remote repository
 git remote add origin https://github.com/Ibtissamkaddach/Weather-App.git
 
 # Push the changes to the remote repository
