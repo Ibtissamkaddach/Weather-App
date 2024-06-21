@@ -26,7 +26,7 @@ This is a simple weather app that fetches and displays a real-time weather infor
 3. Open your terminal, navigate to the project directory, and run the following commands to initialize a Git repository, commit the code, and push it to GitHub:
 
 ```sh
-cd C:\Cat Gallery App\vue-cat-gallery
+cd your file path
 
 # Initialize Git repository
 git init
